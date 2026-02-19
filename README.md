@@ -1,1 +1,1 @@
-este es el primer readmi para empesar el proyecto backend
+este es el primer readme para empesar el proyecto backend
